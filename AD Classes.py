@@ -37,12 +37,6 @@ if __name__ == "__main__":
     main()
 
 
-# In[ ]:
-
-
-"D:\AD Classes\Details.csv"
-
-
 # In[8]:
 
 
